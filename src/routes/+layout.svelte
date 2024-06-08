@@ -51,7 +51,7 @@
 			<a
 				class="btn-ghost btn-sm btn text-xl normal-case"
 				href="/"
-				on:click={() => (database = "")}>D1 Manager</a
+				on:click={() => (database = "")}>SANDBOX D1 Manager</a
 			>
 		</div>
 		<div class="flex-none">
